@@ -2,11 +2,11 @@
 
 1. Create a repository named something like `coding-boot-camp`. Initialize it **with** a `README.md` file.
 
-![image](https://user-images.githubusercontent.com/4055501/38840942-885f1b98-41a7-11e8-966f-3d4821e9eff8.png?s=50%)
+![image](https://user-images.githubusercontent.com/4055501/38840942-885f1b98-41a7-11e8-966f-3d4821e9eff8.png?s=200)
 
 2. Clone the repository via its URL onto your local machine **outside** of your `UKED...` folder.
 
-![image](https://user-images.githubusercontent.com/4055501/38840962-a610af12-41a7-11e8-894a-36b49ec5edf5.png?s=50%)
+![image](https://user-images.githubusercontent.com/4055501/38840962-a610af12-41a7-11e8-894a-36b49ec5edf5.png?s=200)
 
 3. Copy/paste your project, homework, and in-class assignment files The `README.md` serves as documentation for the work you've done in the boot camp. A preferred format for this would be naming a folder according to the skill/language you learned (e.g., `Matplotlib`, `Social Analytics`, `Pandas`, etc.) and placing your homework with its respective code in that folder.
 
