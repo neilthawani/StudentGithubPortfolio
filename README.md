@@ -12,9 +12,9 @@
 > <img src="https://user-images.githubusercontent.com/4055501/38840962-a610af12-41a7-11e8-894a-36b49ec5edf5.png" width=600 />
 
 
-3. Copy/paste your project, homework, and in-class assignment files The `README.md` serves as documentation for the work you've done in the boot camp. A preferred format for this would be naming a folder according to the skill/language you learned (e.g., `Matplotlib`, `Social Analytics`, `Pandas`, etc.) and placing your homework with its respective code in that folder.
+3. Copy/paste your project, homework, and in-class assignment files into this project folder. The `README.md` serves as documentation for the work you've done in the boot camp. A preferred format for this would be creating a folder and naming it according to the skill/language you learned (e.g., `Matplotlib`, `Social Analytics`, `Pandas`, etc.) and placing your homework with its respective code in that folder.
 
-4. In your `README.md` file, for each homework, you can create a growing list of the name of the assignment with a [link](about:blank) to its code, a description of the assignment, and what you learned. For example:
+4. In your `README.md` file, for each homework, you can create a growing list of the name of the assignment with a [link](target:window.location.href) to its code, a description of the assignment, and what you learned. For example:
 
 
 > ## Project: Academy of Py
