@@ -22,4 +22,12 @@
 > #### Skills: Pandas, Numpy
 
 
-5. Moving forward, keep homeworks, exercises and assignments you work on in class in that folder, and by the end of the boot camp, you will have a well-stocked portfolio to present to employers.
+5. Moving forward, keep homeworks, exercises and assignments you work on in class in that folder, running:
+
+```
+git add .
+git commit -m "Content added to repository goes here"
+git push origin master
+```
+
+often. By the end of the boot camp, you will have a well-stocked portfolio to present to employers.
